@@ -1,4 +1,4 @@
-```cpp
+
 #include <iostream>                         // Includes the input-output stream library
 
 int calculateArea(int side) {               // Function to calculate square area
@@ -41,4 +41,3 @@ int main() {                                // Main function
 
     return 0;                               // Ends the program successfully
 }
-```
