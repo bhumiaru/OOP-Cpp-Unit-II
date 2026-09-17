@@ -1,4 +1,4 @@
-```cpp
+
 #include <iostream>                         // Includes the input-output stream library
 #include <string>                           // Includes the string library
 
@@ -40,4 +40,3 @@ int main() {                                // Main function
 
     return 0;                               // Ends the program successfully
 }
-```
